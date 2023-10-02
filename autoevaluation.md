@@ -1,0 +1,13 @@
+# Autoévaluation
+
+| Critère | 👍 | 👎 |
+| ---------------- | ---------------- | ---------------- | 
+| J'ai su faire preuve d'empathie auprès des apprenant.e.s | J'essaie de toujours valoriser le travail réussi, avant d'aborder les erreurs ou les difficultés. Et j'essaie aussi de rester positif, pour encourager les apprenants face à leurs difficultés, sans les culpabiliser. | ... |
+| J'ai su être exhaustif et précis dans mes retours à l'équipe pédagogique | J'ai résumé les difficultés de chacun, et noté mes impressions personnelles, sans entrer dans tous les détails, pour avoir une idée générale de la qualité du travail fourni par chaque apprenant. | ... |
+| J'ai su percevoir le niveau actuel des apprenant.e.s en fonction du parcours envoyé | Je pense avoir assez bien cerné le profil et les difficultés de chacun, même s'il est difficile de juger le travail d'un apprenant "fictif", sans connaître son parcours et son niveau avant l'exercice. | ... |
+| J'ai su adapter la complexité de mes retours/corrections en fonction des apprenant.e.s  | Oui, inutil de donner trop de détails à un apprenant qui est déjà en difficulté. En revanche, je pense qu'un apprenant à l'aise a toujours besoin de conseils et de pistes pour s'améliorer.  | ... |
+| J'ai su proposer des pistes d'améliorations aux apprenant.e.s en fonction du niveau perçu (autres exemples, reformulations et explications sans donner la solution finale si possible/nécessaire, autres façons de faire, liens vers la documentation, etc.) | Oui, j'ai fourni des liens pour approndir certaines notions. Et j'ai essayé de détailler au mieux mes explications pour faciliter la compréhension des apprenants les plus en difficultés. | ... |
+| J'ai su proposer une explication cohérente avec un exemple concret sur la notion de fetch | Je pense avoir trouvé un exemple concrêt adapté pour illustrer l'utilisation basique d'un fetch, pour permettre à l'apprenant de comprendre son utilité, et de le prendre en main facilement. Je lui ai aussi fourni des liens pour approfondir la notion par lui-même. | ... |
+| J'ai su appréhender le MCD d'un.e apprenant.e et proposer un retour complet | ... | Je n'ai pas trouvé beaucoup d'erreur dans le MCD, je me demande si je n'ai pas raté quelque chose. Mais ça fait longtemps que je n'ai pas utilisé ce genre de schémas... |
+
+> Une case par ligne à remplir par un bref commentaire explicatif à destination de l'équipe péda qui corrigera ton Baptême ;)
